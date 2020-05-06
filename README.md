@@ -15,7 +15,9 @@
 - Clone it using **git clone** command.
 - Run in your terminal **bundle install**.
 - Run in your terminal **rake db:migrate**.
-- Run in your terminal **rails server**.
+
+## Automated Test
+> There are no automated test for this project yet.
 
 ## Authors
 
